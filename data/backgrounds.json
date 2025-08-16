@@ -1,0 +1,14 @@
+{
+  "backgrounds": [
+    {
+      "id": "arena_01",
+      "label": "Arena 01",
+      "image": "/placeholders/bg1.jpg"
+    },
+    {
+      "id": "arena_02",
+      "label": "Arena 02",
+      "image": "/placeholders/bg2.jpg"
+    }
+  ]
+}

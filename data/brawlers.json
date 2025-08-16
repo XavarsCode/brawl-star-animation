@@ -1,0 +1,21 @@
+{
+  "brawlers": [
+    {
+      "id": "sample_brawler_a",
+      "name": "Sample A",
+      "skins": [
+        "default",
+        "shadow",
+        "gold"
+      ]
+    },
+    {
+      "id": "sample_brawler_b",
+      "name": "Sample B",
+      "skins": [
+        "default",
+        "neon"
+      ]
+    }
+  ]
+}

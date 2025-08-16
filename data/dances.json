@@ -1,0 +1,19 @@
+{
+  "dances": [
+    {
+      "id": "idle",
+      "label": "Idle Loop",
+      "type": "preset"
+    },
+    {
+      "id": "wave",
+      "label": "Wave",
+      "type": "preset"
+    },
+    {
+      "id": "spin",
+      "label": "Spin",
+      "type": "preset"
+    }
+  ]
+}
